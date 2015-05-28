@@ -1,2 +1,2 @@
 # Grid-on-cloud
-to create a mini grid which will be connected tp the cloud and have a collaborative portal
+To create a mini grid which will be connected to the cloud and have a collaborative portal
